@@ -1,4 +1,4 @@
-# 项目介绍
+![宠物知识下方图片展示](https://github.com/heweijiqn/pet/assets/95403358/92e65245-a58d-4788-a565-571ef128ab64)![宠物知识点击显示](https://github.com/heweijiqn/pet/assets/95403358/05164e1c-753c-40f5-af0e-4e944b47fd20)![宠物知识板块](https://github.com/heweijiqn/pet/assets/95403358/55ec8697-1424-430d-91fb-807b5839da30)# 项目介绍
 宠物管理系统是一个面向宠物店、养宠人员和宠物爱好者的全功能应用程序。该系统旨在提供一种便捷的方式来管理宠物的信息、健康记录、预约、销售和领养。无论是宠物店主、宠物医生还是宠物爱好者，都可以从宠物管理系统中受益。
 
 # 主要功能和特点
@@ -29,3 +29,14 @@ JSP\
 Bootstrap\
 Owl-Carousel\
 JQuery
+
+# 运行截图
+![E-R图](https://github.com/heweijiqn/pet/assets/95403358/6d32d109-d071-462d-9437-01b7a5023854)![动物详细信息1](https://github.com/heweijiqn/pet/assets/95403358/768069fd-b51e-405f-b201-95c97f8db9f5)
+![动物详细信息2](https://github.com/heweijiqn/pet/assets/95403358/4c614095-6880-4e6c-a7b6-06be7a93f6c5)![Uploading 管理员登录入口.png…]()
+![管理员登录](https://github.com/heweijiqn/pet/assets/95403358/194abee7-8007-46da-a397-b6ef26e0a901)
+![个人信息](https://github.com/heweijiqn/pet/assets/95403358/31a53d39-131d-4596-9244-a896d6858bd5)
+
+
+
+
+
