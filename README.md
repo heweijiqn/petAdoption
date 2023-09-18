@@ -1,6 +1,4 @@
 # 技术栈
-JDK
-Spring
-freemarker
+JDK\
+Spring\
 mybatis-plus
-shiro
